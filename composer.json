@@ -1,0 +1,12 @@
+{
+    "name": "mclav/gestion_produit",
+    "require-dev": {
+        "phpunit/phpunit": "^11.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Mclav\\GestionProduit\\": "src/"
+        }
+    },
+    "require": {}
+}
